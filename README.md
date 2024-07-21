@@ -29,7 +29,6 @@
 I am currently an enrolled student at Hanoi University of Science and Technology, where I am pursuing a major in Computer Science.
 - :mechanical_arm: Exploring about Data and AI
 - :tada: Exciting in Blockchain Technology
-- :zap: In my spare time, I always solve DSA problems and read tech news.
 
 ### :hammer_and_wrench: Skills:
 #### Languages: 
